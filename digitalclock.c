@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <unistd.h> // For sleep function
+#include <unistd.h> 
 
 int main() {
     while (1) {
